@@ -1,8 +1,25 @@
 <h1 align="center">Hi 👋, I'm Himanshu Pokhriyal</h1>
-<h3 align="center">i Study in UPES</h3>
+<h3 align="center">I Study in UPES</h3>
 
-- 🔭 I’m in my 2 year in Btech course in UPES, Dehradun.
-- 🌱 I’m presently learning  git/github
-- 💬My hobbies are doing coding
+- 🔭 I’m currently in my 2nd year of B.Tech at UPES, Dehradun.
+  
+- 🌱 I’m presently exploring Web Development.
 
-- ⚡ Fun fact about me :   *I like Java*
+- 💻 My hobbies include coding and solving algorithmic challenges.
+
+- ⚡ Fun fact: *I like Java*  
+
+
+
+### 🛠️ Tech Stack:
+- Java
+- Python
+- HTML & CSS
+- Git
+
+---
+
+### 📫 Connect with me:
+- [LinkedIn]((https://www.linkedin.com/in/hpokhriyal932))
+- [Email](himanshupokhriyal700@gmail.com)
+
