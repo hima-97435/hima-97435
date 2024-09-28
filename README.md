@@ -20,6 +20,6 @@
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn]((https://www.linkedin.com/in/hpokhriyal932))
+- [LinkedIn](https://www.linkedin.com/in/hpokhriyal932)
 - [Email](himanshupokhriyal700@gmail.com)
 
