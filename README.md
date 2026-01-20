@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Pokhriyal</h1>
 <h3 align="center">I Study in UPES</h3>
 
-- 🔭 I’m currently in my 2nd year of B.Tech at UPES, Dehradun.
+- 🔭 I’m currently in my 3nd year of B.Tech at UPES, Dehradun.
   
 - 🌱 I’m presently exploring Web Development.
 
